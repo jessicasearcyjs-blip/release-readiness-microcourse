@@ -54,7 +54,7 @@ Last-minute changes frequently trigger review resets that delay the release.
 ---
 
 ## Download the PDF  
-[Click here to download the 5-Step Release Readiness Guide](INSERT-PDF-LINK-HERE)
+[Click here to download the 5-Step Release Readiness Guide]([https://drive.google.com/file/d/1MIIqBU7YXagXriTY4koPWqcFwkLZ8kc9/view?usp=sharing])
 
 ---
 
@@ -62,8 +62,7 @@ Last-minute changes frequently trigger review resets that delay the release.
 **Jessica Searcy**  
 Instructional Designer | Music Business Professional  
 
-Portfolio: INSERT-YOUR-GOOGLE-SITES-LINK  
-GitHub: INSERT-YOUR-GITHUB-PROFILE-LINK
+Portfolio: https://sites.google.com/view/jessicasearcyelearning/portfolio
 
 ---
 
