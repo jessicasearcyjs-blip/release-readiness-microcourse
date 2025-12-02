@@ -51,10 +51,7 @@ Look for audio re-uploads, artwork changes, metadata edits, or stuck processing 
 **Why it matters:**  
 Last-minute changes frequently trigger review resets that delay the release.
 
----
-
-## Download the PDF  
-[Click here to download the 5-Step Release Readiness Guide]([https://drive.google.com/file/d/1MIIqBU7YXagXriTY4koPWqcFwkLZ8kc9/view?usp=sharing])
+[Click here to download the 5-Step Release Readiness Guide (PDF)](https://drive.google.com/file/d/1MIIqBU7YXagXriTY4koPWqcFwkLZ8kc9/view?usp=sharing)
 
 ---
 
